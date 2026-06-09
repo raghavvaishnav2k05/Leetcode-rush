@@ -53,7 +53,7 @@ Each folder contains solutions solved on that particular day of the challenge.
 | Day 2 | 3               |
 | Day 3 | 3               |
 | Day 4 | 3               |
-| Day 5 | 2+              |
+| Day 5 | 3+oops            |
 
 The repository will be updated regularly as I continue my LeetCode journey.
 
