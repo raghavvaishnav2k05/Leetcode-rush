@@ -1,0 +1,13 @@
+----- Kid User Test Cases -----
+You have successfully registered under a Kids Account
+Book Issued successfully, please return the book within 10 days
+
+Sorry, Age must be less than 12 to register as a kid
+Oops, you are allowed to take only kids books
+
+----- Adult User Test Cases -----
+Sorry, Age must be greater than 12 to register as an adult
+Oops, you are allowed to take only adult Fiction books
+
+You have successfully registered under an Adult Account
+Book Issued successfully, please return the book within 7 days
